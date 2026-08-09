@@ -17,11 +17,9 @@ Incentivar o acompanhamento com profissionais da saúde mental
 - 🧭 Orientações sobre quando e como procurar ajuda profissional
 - 🚀 Tecnologias utilizadas
 
-(edite essa parte conforme seu projeto)
-
 - HTML / CSS / JavaScript
 - Frameworks ou bibliotecas (ex: React, Bootstrap, etc.)
-- Backend (se houver)
+- Backend
 ### ⚠️Aviso importante⚠️
 
 Este site não substitui acompanhamento psicológico ou médico. Ele é apenas uma ferramenta de apoio. Caso o usuário esteja enfrentando dificuldades significativas, é altamente recomendado procurar um profissional qualificado.
